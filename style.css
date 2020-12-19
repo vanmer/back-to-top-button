@@ -1,0 +1,13 @@
+.back-to-top {
+    /* background: red; */
+    position: fixed;
+    bottom: 30%;
+    right: 20px;
+    padding: 1rem;
+    z-index: 100;
+    scroll-behavior: smooth;
+}
+
+.arrow-up {
+    width: 2.5rem;
+}
